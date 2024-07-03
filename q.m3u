@@ -7,3 +7,19 @@ https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 https://cdndai.pl/tvp3warszawasd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.stingray.com/wp-content/uploads/2024/01/stingray_naturescape.svg",Piękno natury
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+#EXTINF:-1 tvg-logo="https://www.webcamera.pl/img/structured-data/logo-2018.png",WebCamera YT
+https://ythls.armelin.one/channel/UCh2MI-QmqjA40IYO4oCXdUw.m3u8
+#EXTINF:-1 tvg-logo="https://www.webcamera.pl/img/structured-data/logo-2018.png",WebCamera Web
+https://hoktastream2.webcamera.pl/tv_cam_656df8/tv_cam_656df8.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdCFw4zYieFNII1Sn2UMkcrVDCtxNpcHeHg&s",wPolsce PL
+https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdCFw4zYieFNII1Sn2UMkcrVDCtxNpcHeHg&s",TVP World
+http://78.129.193.20/tsstreamer/TVP_SD.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7-NrkBe2m6XdxTL3wLqTkWlmg-vfim1ugS6e-uT3tjUq-EFle12ia6Cs4Kg3gum3djzKybhv=s900-c-k-c0x00ffffff-no-rj",Disney
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 tvg-logo="https://www.laughingplace.com/w/wp-content/uploads/2024/05/disney-jr-debuts-new-logo.jpeg",Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Disney_XD_-_2015_%28Purple%29.svg",Disney XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",Alan Becker TV
+https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
