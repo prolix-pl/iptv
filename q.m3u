@@ -23,3 +23,19 @@ http://185.236.229.62:9981/play/a06n
 http://178.219.128.68:64888/DISNXD
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
+#EXTINF:-1 tvg-logo="https://telewizjatvt.pl/2020/wp-content/uploads/2020/03/tvt-logotyp-e1705919880218.png",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-logo="https://static2.truso.tv/data/wysiwig/truso-logo-mod.webp",Truso TV
+https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 ,TV Jas&#322;o
+https://cdn2.aztv.pl/hls/live_tvjaslo.stream.m3u8?conn_id=14013521122889531071
+#EXTINF:-1 ,TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 ,Pogranicze G&#322;ubczyce
+https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 ,Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 ,TV Imperium
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAtxF7k.png",Radio Czw&#243;rka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8 
